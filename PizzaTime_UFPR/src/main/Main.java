@@ -124,6 +124,7 @@ public class Main extends javax.swing.JFrame {
             public void run() {
                 Main teste = new Main();
                 teste.setVisible(true);
+                //teste
             }
         });
     }
